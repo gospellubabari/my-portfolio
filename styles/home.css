@@ -33,14 +33,18 @@ h1{
   font-weight: 900;
   color: rgba(134, 131, 131, 0.651);
   margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 p{
   color: white;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a{
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 button{
   width: 100px;
